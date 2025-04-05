@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: my-agent # Self-hosted agent
+  name: Default # Self-hosted agent
 
 steps:
 - task: UseDotNet@2
