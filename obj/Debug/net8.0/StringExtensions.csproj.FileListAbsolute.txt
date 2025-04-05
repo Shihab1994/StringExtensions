@@ -1,0 +1,11 @@
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\bin\Debug\net8.0\StringExtensions.deps.json
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\bin\Debug\net8.0\StringExtensions.dll
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\bin\Debug\net8.0\StringExtensions.pdb
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfoInputs.cache
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfo.cs
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.csproj.CoreCompileInputs.cache
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.dll
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\refint\StringExtensions.dll
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\StringExtensions.pdb
+C:\Random\SHIHAB - PC\Centennial\Fourth Semester - Winter 2025\DevOps\LAB 4\StringExtensions\obj\Debug\net8.0\ref\StringExtensions.dll
